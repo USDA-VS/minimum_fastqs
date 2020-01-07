@@ -1,0 +1,50 @@
+440013777377000, Not Found, 1001000000000010111111111110111111110000000
+
+SPOLIGO SB NUMBER NOT FOUND
+
+
+One mismatch allowed spacer search against both R1 and R2 reads.
+
+spacer01 8
+spacer02 4
+spacer03 0
+spacer04 6
+spacer05 0
+spacer06 0
+spacer07 0
+spacer08 0
+spacer09 0
+spacer10 0
+spacer11 0
+spacer12 0
+spacer13 0
+spacer14 0
+spacer15 10
+spacer16 0
+spacer17 13
+spacer18 10
+spacer19 6
+spacer20 11
+spacer21 8
+spacer22 9
+spacer23 9
+spacer24 7
+spacer25 21
+spacer26 10
+spacer27 5
+spacer28 2
+spacer29 7
+spacer30 11
+spacer31 10
+spacer32 7
+spacer33 9
+spacer34 5
+spacer35 10
+spacer36 11
+spacer37 3
+spacer38 3
+spacer39 0
+spacer40 0
+spacer41 0
+spacer42 0
+spacer43 0

@@ -1,0 +1,8 @@
+Best reference Brucella counts:
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+Best reference TB counts:
+2,4,0,0,4,7,3,0,
+Best reference Para counts:
+0,0,0,
+
+TB group, species Mycobacterium_AF2122
